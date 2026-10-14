@@ -45,6 +45,17 @@ EcoGuardian is an environmental monitoring and threat-detection dashboard design
 
 ---
 
+## Tools & Technologies
+
+* **Marimo**: Used as the core framework for building the reactive Python dashboard and managing UI components.
+* **Google Gemini API**: Integrated to dynamically draft context-aware advisory scripts for the digital park ranger based on species and spatial data.
+* **ElevenLabs API**: Utilized to convert the AI-generated scripts into highly realistic, dynamic audio notifications for the threat alert system.
+* **Scikit-Learn & SciPy**: Implemented DBSCAN machine learning for spatial coordinate clustering to detect animal hotspots, and Convex Hull algorithms to calculate and draw their geometric boundaries.
+* **Plotly**: Powered the interactive open-street maps, rendering observation points, centroids, and colored cluster zones.
+* **Pandas & NumPy**: Handled data loading, cleaning, and complex geospatial coordinate conversions (like Haversine distance calculations).
+
+---
+
 ## Repository Contents
 
 ```text
