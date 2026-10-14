@@ -1,9 +1,21 @@
 
 # EcoGuardian
 
-<p align="center">
-  <img src="datahack.png" alt="DataHack Logo" width="220"/>
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="datahacks.png" alt="DataHacks Logo" width="180"/>
+      </td>
+      <td align="center" valign="middle" style="padding: 0 20px;">
+        <span style="font-size: 24px; font-weight: bold;">✕</span>
+      </td>
+      <td align="center" valign="middle">
+        <img src="logo.png" alt="Marimo Logo" width="220"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   🏆 <b>DataHacks 2026 — 3rd Place Winner</b><br>
